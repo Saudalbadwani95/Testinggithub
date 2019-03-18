@@ -1,2 +1,2 @@
 # Testinggithub
-this just for learning the functionality in gethub 
+this is just for learning the functionality of gethub 
